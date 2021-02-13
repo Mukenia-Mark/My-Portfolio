@@ -4,6 +4,7 @@
 body {
   background-color: lightgray;
   padding: 5px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 h2 {
   border-bottom: lightslategray;
