@@ -1,6 +1,14 @@
-body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+.intro {
+  text-align: center;
 }
 body {
   background-color: lightgray;
+}
+h2 {
+  border-bottom: lightslategray;
+  border-bottom-style: solid;
+}
+h3 {
+  border-bottom: lightslategray;
+  border-bottom-style: solid;
 }
