@@ -3,6 +3,7 @@
 }
 body {
   background-color: lightgray;
+  padding: 5px;
 }
 h2 {
   border-bottom: lightslategray;
