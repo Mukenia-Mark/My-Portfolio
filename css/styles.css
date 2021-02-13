@@ -14,3 +14,11 @@ h3 {
   border-bottom: lightslategray;
   border-bottom-style: solid;
 }
+.football {
+  width: 350px;
+  float: left;
+}
+.border {
+  width: 350px;
+  float: right;
+}
